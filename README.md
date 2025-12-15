@@ -106,14 +106,11 @@
 </style>
 </head>
 <body>
-
 <img class="ghost" src="https://pngimg.com/uploads/ghost/gho">
-
 <header>
   <h1>🎃 Halloween Party 🎃</h1>
   <p>Chào mừng bạn đến với lễ hội Halloween huyền bí!</p>
 </header>
-
 <nav>
   <a href="#home">Trang chủ</a>
   <a href="#event">Sự kiện</a>
@@ -141,7 +138,6 @@
     </div>
   </div>
 </section>
-
 <section id="contact">
   <h2>Đăng ký tham gia</h2>
   <form>
@@ -151,8 +147,5 @@
     <button>Gửi đăng ký</button>
   </form>
 </section>
-
-
-
 </body>
 </html>
